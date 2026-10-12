@@ -13,7 +13,7 @@
         },
         "macos": {
           "url": "https://ajakfial.github.io/Wilfred/plugins/cheatsheets-1.0.0-macos.zip",
-          "sha256": "88c62e188dd60128c725fc302242c146ee39af8b1c0b711bb5025b83addad405"
+          "sha256": "9e90de8f33350b9023c6796826e80f6aaf4e2a39a1ab34e463637b967dce70bb"
         },
         "windows": {
           "url": "https://ajakfial.github.io/Wilfred/plugins/cheatsheets-1.0.0-windows.zip",
@@ -97,7 +97,7 @@
         },
         "macos": {
           "url": "https://ajakfial.github.io/Wilfred/plugins/roman-1.0.0-macos.zip",
-          "sha256": "49a5bb71e9ba979d2e6ab2819e811acc4b27dc315f9f0595515faecb66604140"
+          "sha256": "e93cee9d557058d11bf3cf63a4fdfe08b68747a3a9a6ba1679b117458c116bd8"
         },
         "windows": {
           "url": "https://ajakfial.github.io/Wilfred/plugins/roman-1.0.0-windows.zip",
